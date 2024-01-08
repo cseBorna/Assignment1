@@ -251,7 +251,6 @@ body {
 }
 
 .img3 {
-
     padding: 95px 20px 0px 720px;
 }
 
@@ -277,14 +276,15 @@ body {
     padding: 15px 35px;
     align-items: center;
 }
-.btn2:hover{
+
+.btn2:hover {
     background-color: rgb(234, 161, 161);
 }
 
 .bg1 {
     margin-top: 120px;
     height: 482px;
-    background-color:rgb(236, 198, 198);
+    background-color: rgb(236, 198, 198);
     text-align: center;
     padding: 100px 385px 0px;
     font-size: 32px;
@@ -302,12 +302,12 @@ body {
     /* 160% */
 }
 
-.msg-box{
-    
+.msg-box {
+
     position: relative;
 }
 
-.msg-box input{
+.msg-box input {
     width: 100%;
     background-color: white;
     border: none;
@@ -316,7 +316,8 @@ body {
     width: 500px;
 
 }
-.btnn{
+
+.btnn {
     border: none;
     padding: 15px;
     position: absolute;
@@ -329,6 +330,60 @@ body {
     font-size: 20px;
 }
 
-.btnn:hover{
+.btnn:hover {
     background-color: rgb(205, 126, 126);
+}
+
+.gt-1 {
+    margin-top: 120px;
+    color: #F00;
+    font-family: Inter;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+}
+
+.gt-2 {
+    color: #070211;
+    font-family: Merriweather;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: normal;
+    text-transform: capitalize;
+}
+
+.gc {
+    color: rgba(7, 2, 17, 0.60);
+    font-family: Inter;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 32px;
+    margin-bottom: 48px;
+    /* 160% */
+}
+
+.rec-img-1{
+    display: flex;
+    
+}
+
+.r3:hover{
+    background-color: bisque;
+    border-radius: 10px;
+}
+
+.r3{
+    padding: 12.5px;
+}
+
+.r6:hover{
+    background-color: bisque;
+    border-radius: 10px;
+}
+
+.r6{
+    padding: 12.5px;
 }

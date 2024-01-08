@@ -365,25 +365,38 @@ body {
     /* 160% */
 }
 
-.rec-img-1{
+.rec-img-1 {
     display: flex;
-    
+
 }
 
-.r3:hover{
+.r3:hover {
     background-color: bisque;
     border-radius: 10px;
 }
 
-.r3{
+.r3 {
     padding: 12.5px;
 }
 
-.r6:hover{
+.r6:hover {
     background-color: bisque;
     border-radius: 10px;
 }
 
-.r6{
+.r6 {
     padding: 12.5px;
+}
+
+.footer-bg {
+    margin-top: 120px;
+    background-color: #070211;
+    width: 1700px;
+    height: 609px;
+    color: white;
+}
+
+.f-line{
+    padding-left: 100px ;
+    display: flex;
 }

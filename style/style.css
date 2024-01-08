@@ -7,9 +7,8 @@ body {
 
 .banner-header {
     background-image: linear-gradient(rgba(0, 0, 0, 0.527), rgba(0, 0, 0, 0.5)), url('../resources/Banner\ Image.png');
-    background-size: cover;
-    width: 100%;
-    height: 100%;
+    width: 1320px;
+    height: 600px;
     background-repeat: no-repeat;
     border-radius: 15px;
 }
@@ -17,9 +16,9 @@ body {
 .banner-title {
     color: #ffff;
     text-align: center;
-    font-size: 30px;
+    font-size: 20px;
     font-weight: 700;
-    padding-top: 150px;
+    padding: 150px 470px 0px 470px;
     padding-bottom: 0px;
 
 }
@@ -31,7 +30,7 @@ body {
     font-style: normal;
     font-weight: 900;
     padding-top: 0px;
-    padding-bottom: 250px;
+    padding-bottom: 750px;
     /* padding-left: 350px; */
     /* max-width: 50%; */
 
@@ -77,9 +76,8 @@ body {
     background-image: linear-gradient(rgba(0, 0, 0, 0.527), rgba(0, 0, 0, 0.5)), url('../resources/Vectorrr.png');
     background-size: cover;
     text-align: center;
-    width: 100%;
-    height: 100%;
-    height: 772px;
+    width: 1320px;
+    height: 600px;
     background-repeat: no-repeat;
     border-radius: 15px;
     margin-top: 120px;
@@ -90,11 +88,11 @@ body {
 .invi-title {
     color: #FFF;
     font-family: Inter;
-    font-size: 68px;
+    font-size: 48px;
     font-style: normal;
     font-weight: 500;
     line-height: normal;
-    padding: 120px 300px 0px 100px;
+    padding: 100px 70px 0px 100px;
     text-align: left;
 }
 
@@ -105,13 +103,13 @@ body {
     font-style: normal;
     font-weight: 400;
     line-height: normal;
-    padding: 0px 300px 0px 100px;
+    padding: 0px 50px 0px 100px;
     text-align: left;
 }
 
 .img-70 {
-    padding: 200px;
-    height: 800px;
+    padding: 90px;
+    height: 400px;
 }
 
 .subs {
@@ -136,9 +134,9 @@ body {
 }
 
 .t1, .t2, .c1 {
-    padding-right: 150px;
-    width: 500px;
-    padding-left: 50px;
+    padding-right: 20px;
+    width: 400px;
+    padding-left: 30px;
 }
 
 .t1 {
@@ -176,11 +174,11 @@ body {
     padding: 10px;
     width: 400px;
     border: 20px solid red;
-    border-radius: 350px;
+    border-radius: 550px;
 }
 
 .t3, .c2 {
-    padding-left: 150px;
+    padding-left: 40px;
     max-width: 300px;
 }
 
@@ -223,11 +221,11 @@ body {
 .fc {
     color: #484242;
     text-align: center;
-    padding: 0px 270px;
+    padding: 0px 170px;
     font-size: 20px;
     font-style: normal;
     font-weight: 500;
-
+    width: 1000px;
 }
 
 .img-t3 {
@@ -240,26 +238,29 @@ body {
 }
 
 .img1 {
-    width: 150px;
-    padding: 90px 0px 0px 200px;
+    width: 10px;
+    padding-right: 300px;
 }
 
 .img2 {
     position: absolute;
-    left: 940px;
-    top: 140px;
+    left: 640px;
+    top: 80px;
 }
 
 .img3 {
-    padding: 95px 20px 0px 720px;
+    padding: 7px 0px 0px 525px;
+    width: 1320px;
+    height: 229px;
 }
 
 .bg {
     margin-top: 120px;
     height: 482px;
+    width: 1330;
     background-image: linear-gradient(to top, rgba(218, 141, 208, 0), rgb(240, 214, 214));
     text-align: center;
-    padding: 100px 385px 0px;
+    padding: 100px 300px 0px 300px;
     font-size: 32px;
     font-weight: 600;
 }
@@ -311,7 +312,7 @@ body {
     width: 100%;
     background-color: white;
     border: none;
-    padding: 15px;
+    padding: 18px;
     border-radius: 50px;
     width: 500px;
 
@@ -322,7 +323,7 @@ body {
     padding: 15px;
     position: absolute;
     top: 0px;
-    right: 180px;
+    left: 430px;
     bottom: 0px;
     background-color: red;
     color: #FFF;
@@ -378,6 +379,7 @@ body {
 
 .r3 {
     padding: 12.5px;
+    
 }
 
 .r6:hover {
@@ -392,38 +394,38 @@ body {
 .footer-bg {
     margin-top: 120px;
     background-color: #070211;
-    width: 1700px;
+    width: 1320px;
     height: 630px;
     color: white;
 }
 
-.f-line{
+.f-line {
     display: flex;
     justify-content: space-between;
     text-align: left;
     align-items: center;
-    padding-right: 300px;
+    padding-right: 250px;
     padding-top: 120px;
 }
 
-.links{
+.links {
     display: flex;
-    padding: 120px 700px 0px;
-    
+    padding: 120px 500px 0px;
+
 }
 
-.social{
+.social {
     margin: 5px;
-    
+
 }
 
-.social:hover{
+.social:hover {
     background-color: #484242;
     width: 60px;
     border-radius: 25px;
 }
 
-.unsubs{
+.unsubs {
     border-radius: 25px;
     background: rgb(8, 1, 15);
     border: 0;
@@ -436,6 +438,6 @@ body {
 
 }
 
-.unsubs:hover{
+.unsubs:hover {
     background-color: #484242;
 }
